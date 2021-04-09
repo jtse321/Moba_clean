@@ -61,6 +61,7 @@ Build/*/**
 !Build/**/*.ico
 
 # Don't ignore plugin Binaries
+!Binaries/Win64/
 !Binaries/Win64/**
 
 # Built data for maps
