@@ -1,0 +1,2 @@
+Bugs
+-play game does not work if save games are not edited first
