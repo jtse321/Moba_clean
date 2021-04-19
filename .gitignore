@@ -60,10 +60,6 @@ Build/*/**
 # Don't ignore icon files in Build
 !Build/**/*.ico
 
-# Don't ignore plugin Binaries
-!Binaries/Win64/
-!Binaries/Win64/**
-
 # Built data for maps
 *_BuiltData.uasset
 
