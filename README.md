@@ -12,6 +12,8 @@ Right click on ground to move, right click on minions to choose & attack.
 
 Add indication circles of the ranges of the auto attack and the abilities. (Bug Fixed)
 
+<u>Fixed Bugs of In game Hub hero health not working after hero respawn.</u>
+
 All the export stuff & bug fixing & score system (Ben)
 
 Most of the in-game UI and menu UI(Justin)
