@@ -6,18 +6,21 @@ W Ability: stun attack - player can stun enemies in a certain radius for 4 secon
 
 Passive Ability: After a last hit, increase the speed and base damage of the hero by 20% for 2 seconds. Only one layer of buff can exist at the same time.
 
-All the custom settings in the UI menu works (hero HP, hero base damage, minion HP, minion base damage, hero speed, allow ability or not).
+All the custom settings in the UI menu works (hero HP, hero base damage, minion HP, minion base damage, hero speed, allow ability or not, friendly minions per wave, hostile minion per wave, game duration).
 
-Right click on ground to move, right click on minions to choose & attack.
+Right click on ground to move, right click on minions to choose & attack. 
 
-Add indication circles of the ranges of the auto attack and the abilities.
+Add indication circles of the ranges of the auto attack and the abilities. (Bug Fixed)
+
+<u>Fixed Bugs of In game Hub hero health not working after hero respawn.</u>
+
+All the export stuff & bug fixing & score system (Ben)
+
+Most of the in-game UI and menu UI(Justin)
 
 ![](https://i.imgur.com/tP79kRM.png)
 
 To-Do:
 
-- [ ] I linked the minions per wave and time between waves to variables in the game instance, but there is no UI interface to custom them yet.
-- [ ] There is no working score system.
-- [ ] UI showing cool down time and a short description when hovering over.
-- [ ] mouse click Coordinate export. 
+- [ ] UI showing cool down time
 
